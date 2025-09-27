@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/naveenreddyguvvala/naveenreddyguvvala/main/banner.png" width="900"/>
+</p>
 
 
 # 👋 Hi, I'm Naveen Kumar Reddy Guvvala 
