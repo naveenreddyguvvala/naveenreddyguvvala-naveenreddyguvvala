@@ -1,19 +1,58 @@
 # 👋 Hi, I'm Naveen Kumar Reddy Guvvala  
 
-🚀 **Senior Cloud Engineer | AWS | DevOps | Automation**  
+### 🚀 Senior Cloud & Infra Engineer | AWS | DevOps | Automation  
+☁️ Cloud | DevOps | Kubernetes | Terraform | CI/CD | Ansible | Jenkins | Python  
 
----
-
-## 💡 Summary  
-- 4+ years of experience in **Cloud & DevOps Engineering**  
-- Expertise in **AWS Cloud, CI/CD, Automation, and Container Orchestration**  
-- Skilled in **Infrastructure as Code (IaC)** and **DevSecOps** practices  
-- Passionate about **scalable, secure, and automated solutions**  
-
----
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/naveenkumarreddyguvvala/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=flat)](https://github.com/naveenreddyguvvala)  
 [![Email](https://img.shields.io/badge/Email-naveenreddyguvvala%40gmail.com-red?logo=gmail&style=flat)](mailto:naveenreddyguvvala@gmail.com)  
+
+---
+
+## 🔹 About Me  
+
+I’m a **Senior Cloud Engineer** with **4+ years of expertise** in Cloud & DevOps.  
+I specialize in **AWS Infrastructure, CI/CD automation, Kubernetes deployments, and Infrastructure as Code (IaC)**.  
+
+My focus is on **scalability, automation, and security**, ensuring delivery pipelines and infrastructure are highly available and cost-efficient.  
+
+---
+
+## 🧰 Tech Stack  
+
+- **Cloud Platforms**: AWS (EC2, S3, RDS, EKS, Lambda, CloudFormation), Azure (Basics)  
+- **OS & Automation**: Linux, Shell, Bash, Python  
+- **Infrastructure as Code (IaC)**: Terraform, Ansible, CloudFormation  
+- **CI/CD**: Jenkins, GitHub Actions, GitLab CI/CD  
+- **Containers & Orchestration**: Docker, Kubernetes, Helm  
+- **Security**: IAM, VPC Security Groups, Secrets Manager  
+- **Monitoring & Observability**: Prometheus, Grafana, ELK, CloudWatch  
+- **SCM & Tools**: GitHub, SonarQube, Nexus, JFrog Artifactory  
+
+---
+
+## 🔧 What I Do  
+
+- ☁️ Design & manage **AWS cloud infrastructure** with **IaC (Terraform/Ansible)**  
+- 🚀 Build & optimize **CI/CD pipelines** (Jenkins, GitHub Actions, GitLab CI/CD)  
+- 🐳 Deploy and manage **containerized workloads** using Docker & Kubernetes  
+- 🔐 Implement **cloud security & governance** with IAM, RBAC, and secrets management  
+- 📊 Enable **monitoring & observability** with Prometheus, Grafana, ELK Stack  
+- ⚡ Drive **automation & cost optimization** across infrastructure  
+
+---
+
+## 💼 Career Snapshot  
+
+- 🏢 **Senior Cloud Engineer – Current Role**  
+  - Automated AWS deployments using Terraform → **Reduced provisioning time by 70%**  
+  - Deployed production workloads on Kubernetes (EKS) → **Improved reliability by 40%**  
+  - Built CI/CD pipelines in Jenkins & GitHub Actions → **Accelerated delivery by 50%**  
+  - Implemented security & monitoring solutions → **30% fewer incidents**  
+
+- 🏢 **Previous Roles** – Delivered solutions in **DevOps, Infrastructure Automation, and Cloud Security**  
+
+---
 
 ## ⚙️ Skills Showcase  
 
@@ -37,8 +76,13 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=naveenreddyguvvala&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=naveenreddyguvvala&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenreddyguvvala&theme=dark&hide_border=false&layout=compact" />
-</div>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=naveenreddyguvvala&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenreddyguvvala&theme=tokyonight&hide_border=false&layout=compact" />
+</div>  
+
+---
+
+✨ Thanks for visiting my profile! Let’s connect and collaborate 🚀  
+
 ---
 
