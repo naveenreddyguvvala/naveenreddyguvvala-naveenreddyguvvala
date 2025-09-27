@@ -15,7 +15,7 @@
 
 ## 🔹 About Me  
 
-I’m a **Senior Cloud Engineer** with **7+ years of expertise** in Cloud & DevOps.  
+I’m a **Senior Cloud Engineer** with **4+ years of expertise** in Cloud & DevOps.  
 I specialize in **AWS Infrastructure, CI/CD automation, Kubernetes deployments, and Infrastructure as Code (IaC)**.  
 
 My focus is on **scalability, automation, and security**, ensuring delivery pipelines and infrastructure are highly available and cost-efficient.  
