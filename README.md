@@ -1,4 +1,7 @@
-![Banner Image](https://raw.githubusercontent.com/naveenreddyguvvala/naveenreddyguvvala/main/banner.png)
+<p align="center">
+  <img src="https://github.com/naveenreddyguvvala/naveenreddyguvvala/blob/main/banner.png?raw=true" width="900"/>
+</p>
+
 # 👋 Hi, I'm Naveen Kumar Reddy Guvvala  
 
 ### Senior Cloud Engineer | AWS | DevOps | Automation  
