@@ -42,7 +42,3 @@
 </div>
 ---
 
-## 🌍 Connect with Me  
-- 💼 [LinkedIn](https://linkedin.com/in/naveenkumarreddyguvvala)  
-- 🐙 [GitHub](https://github.com/naveenreddyguvvala)  
-- 📧 Email: **naveenreddyguvvala@example.com**
