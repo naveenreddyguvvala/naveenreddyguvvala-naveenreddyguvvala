@@ -2,7 +2,7 @@
   <img src="https://github.com/naveenreddyguvvala/naveenreddyguvvala/blob/main/banner.png" alt="GitHub Banner" width="900"/>
 </div>
 
-# 👋 Hi, I'm Naveen Kumar Reddy Guvvala  
+# 👋 Hi, I'm Naveen Kumar Reddy Guvvala 
 
 ### 🚀 Senior Cloud Engineer | AWS | DevOps | Automation  
 ☁️ Cloud | DevOps | Kubernetes | Terraform | CI/CD | Ansible | Jenkins | Python  
