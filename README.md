@@ -1,4 +1,4 @@
-[<p align="center">
+<p align="center">
   <img src="https://github.com/naveenreddyguvvala/naveenreddyguvvala/blob/main/banner.png?raw=true" width="900"/>
 </p>](https://raw.githubusercontent.com/naveenreddyguvvala/naveenreddyguvvala/main/banner.png
 )
