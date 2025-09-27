@@ -4,10 +4,10 @@
 
 # 👋 Hi, I'm Naveen Kumar Reddy Guvvala  
 
-### Senior Cloud Engineer | AWS | DevOps | Automation  
-🚀 Cloud | DevOps | Kubernetes | Terraform | CI/CD | Ansible | Jenkins | Python  
+### 🚀 Senior Cloud Engineer | AWS | DevOps | Automation  
+☁️ Cloud | DevOps | Kubernetes | Terraform | CI/CD | Ansible | Jenkins | Python  
 
-[![LinkedIn]((https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/naveenreddyguvvala/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/naveenkumarreddyguvvala/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=flat)](https://github.com/naveenreddyguvvala)  
 [![Email](https://img.shields.io/badge/Email-naveenreddyguvvala%40gmail.com-red?logo=gmail&style=flat)](mailto:naveenreddyguvvala@gmail.com)  
 
@@ -15,7 +15,7 @@
 
 ## 🔹 About Me  
 
-I’m a **Senior Cloud & Infra Engineer** with **4+ years of expertise** in Cloud & DevOps.  
+I’m a **Senior Cloud Engineer** with **7+ years of expertise** in Cloud & DevOps.  
 I specialize in **AWS Infrastructure, CI/CD automation, Kubernetes deployments, and Infrastructure as Code (IaC)**.  
 
 My focus is on **scalability, automation, and security**, ensuring delivery pipelines and infrastructure are highly available and cost-efficient.  
@@ -80,8 +80,8 @@ My focus is on **scalability, automation, and security**, ensuring delivery pipe
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=naveenreddyguvvala&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=naveenreddyguvvala&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenreddyguvvala&theme=dark&hide_border=false&layout=compact" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=naveenreddyguvvala&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenreddyguvvala&theme=tokyonight&hide_border=false&layout=compact" />
 </div>  
 
 ---
