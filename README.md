@@ -1,32 +1,40 @@
+# 👋 Hi, I'm Naveen Kumar Reddy Guvvala  
 
-# 👋 Hi, I'm Naveen Kumar Reddy Guvvala
-
-### 🚀 Senior Cloud & DevOps Engineer
-
-💻 **Skills & Tools:**  
-AWS | Terraform | Kubernetes | Docker | Jenkins | Ansible | Git | Python | Linux
-
-🌱 **Learning:** GitOps | CI/CD Pipelines | Cloud Security | Observability
-
-📂 **Projects:**  
-- **DevSecOps Automation:** CI/CD pipelines with SonarQube, Nexus, and Jenkins  
-- **Kubernetes Deployment:** Helm charts and K8s monitoring with Prometheus & Grafana  
-- **Terraform Infrastructure:** Multi-environment AWS infrastructure as code  
-
-📫 **Contact Me:**  
-- Email: `naveenreddyguvvala@example.com`  
-- LinkedIn: [linkedin.com/in/naveenreddyguvvala](https://www.linkedin.com/in/naveenreddyguvvala)  
-- GitHub: [github.com/naveenreddyguvvala](https://github.com/naveenreddyguvvala)
+🚀 **Senior Cloud Engineer | AWS | DevOps | Automation**  
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naveenreddyguvvala&show_icons=true&theme=radical" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenreddyguvvala&layout=compact&theme=radical" width="450"/>
-</p>
+## 💡 Summary  
+- 4+ years of experience in **Cloud & DevOps Engineering**  
+- Expertise in **AWS Cloud, CI/CD, Automation, and Container Orchestration**  
+- Skilled in **Infrastructure as Code (IaC)** and **DevSecOps** practices  
+- Passionate about **scalable, secure, and automated solutions**  
 
 ---
 
-### ⚡ Fun Fact
-"Every Manual Task Has an Automation Equivalent — Especially in the Cloud!"
+## 🛠️ Core Skills  
+- ☁️ Cloud: **AWS (EC2, S3, Lambda, IAM, RDS, EKS, CloudFormation)**  
+- ⚙️ DevOps: **Jenkins, GitHub Actions, GitLab CI/CD**  
+- 📦 Containers: **Docker, Kubernetes, Helm**  
+- 📜 IaC & Automation: **Terraform, Ansible**  
+- 📈 Monitoring: **Prometheus, Grafana, ELK Stack**  
+- 💻 Scripting: **Shell, Python, Groovy**  
+
+---
+
+## 📌 Key Projects  
+- **DevSecOps Pipeline** → CI/CD with Jenkins, SonarQube, Trivy, Kubernetes  
+- **AWS Infra Automation** → Provisioning AWS infra using Terraform & Ansible  
+- **Kubernetes Deployments** → Automated Helm-based app deployments  
+
+---
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naveenreddyguvvala&show_icons=true&theme=default)  
+
+---
+
+## 🌍 Connect with Me  
+- 💼 [LinkedIn](https://linkedin.com/in/naveenkumarreddyguvvala)  
+- 🐙 [GitHub](https://github.com/naveenreddyguvvala)  
+- 📧 Email: **naveenreddyguvvala@example.com**
