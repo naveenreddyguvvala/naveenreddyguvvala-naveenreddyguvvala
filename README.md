@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://files.oaiusercontent.com/file_00000000bc3461fa81e482dd2dc51209/mnt/data/A_digital_graphic_banner_features_Naveen_Kumar_Red.png" alt="GitHub Banner" width="900"/>
+  <img src="https://github.com/naveenreddyguvvala/naveenreddyguvvala-naveenreddyguvvala/blob/main/banner.png" alt="GitHub Banner" width="900"/>
 </div>
 
 
