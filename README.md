@@ -12,26 +12,31 @@
 
 ---
 
-## 🛠️ Core Skills  
-- ☁️ Cloud: **AWS (EC2, S3, Lambda, IAM, RDS, EKS, CloudFormation)**  
-- ⚙️ DevOps: **Jenkins, GitHub Actions, GitLab CI/CD**  
-- 📦 Containers: **Docker, Kubernetes, Helm**  
-- 📜 IaC & Automation: **Terraform, Ansible**  
-- 📈 Monitoring: **Prometheus, Grafana, ELK Stack**  
-- 💻 Scripting: **Shell, Python, Groovy**  
+## ⚙️ Skills Showcase  
 
----
-
-## 📌 Key Projects  
-- **DevSecOps Pipeline** → CI/CD with Jenkins, SonarQube, Trivy, Kubernetes  
-- **AWS Infra Automation** → Provisioning AWS infra using Terraform & Ansible  
-- **Kubernetes Deployments** → Automated Helm-based app deployments  
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="40" height="40" alt="AWS" /></a>
+  <a href="https://www.terraform.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform" /></a>
+  <a href="https://www.jenkins.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="Jenkins" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" /></a>
+  <a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes" /></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" /></a>
+  <a href="https://prometheus.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" height="40" alt="Prometheus" /></a>
+  <a href="https://grafana.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" height="40" alt="Grafana" /></a>
+  <a href="https://www.ansible.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40" alt="Ansible" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL" /></a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naveenreddyguvvala&show_icons=true&theme=default)  
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naveenreddyguvvala&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=naveenreddyguvvala&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenreddyguvvala&theme=dark&hide_border=false&layout=compact" />
+</div>
 ---
 
 ## 🌍 Connect with Me  
