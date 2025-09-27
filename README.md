@@ -1,6 +1,7 @@
-<div align="center">
-  <img src="https://github.com/naveenreddyguvvala/naveenreddyguvvala/blob/main/banner.png" alt="GitHub Banner" width="900"/>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/naveenreddyguvvala/naveenreddyguvvala/main/banner.png" width="900"/>
+</p>
+
 
 # 👋 Hi, I'm Naveen Kumar Reddy Guvvala  
 
