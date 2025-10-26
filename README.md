@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/naveenkumarreddyguvvala/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=flat)](https://github.com/naveenreddyguvvala)  
-[![Email](https://img.shields.io/badge/Email-naveenreddyguvvala%40gmail.com-red?logo=gmail&style=flat)](mailto:naveenreddyguvvala@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-naveenreddyguvvala%40gmail.com-red?logo=gmail&style=flat)](mailto:naveenreddyguvvala23@gmail.com)  
 
 ---
 
